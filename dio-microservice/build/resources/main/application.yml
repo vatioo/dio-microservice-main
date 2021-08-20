@@ -1,0 +1,9 @@
+
+spring:
+
+  application:
+    name: dio-microservice-main
+
+  cloud:
+    config:
+      uri: http://localhost:8888
